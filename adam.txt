@@ -1,0 +1,5 @@
+cat adam.txt
+Hellow world!
+:wq
+git status
+:wq
